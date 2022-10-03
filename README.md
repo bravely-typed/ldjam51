@@ -2,6 +2,8 @@
 
 This game was created over 3 days for Ludum Dare 51, with the theme "Every ten seconds..."
 
+This game was made in Unreal Engine 4. This repository contains the C++ source code, but not any assets or Blueprints.
+
 ## Story and gameplay
 
 A cat named Bellhop is the manager for a hotel for other cats. The hotel is very successful, but
