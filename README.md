@@ -16,6 +16,12 @@ up after unruly customers. The faster you help each patron, the more fish coins 
 Remember, your guests are very tired, and won't have the energy to come and get you when they have
 a problem. Make sure to check in on everybody to guarantee their stay is as happy as possible!
 
+## Controls
+
+AWSD or arrow keys to move, SpaceBar to jump!
+J to check cats in at the front desk!
+Run back and forth inside a messy room to clean it!
+
 ## Credits
 
 * @Xeltide - Programming, level design
